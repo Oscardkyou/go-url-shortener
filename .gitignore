@@ -1,0 +1,15 @@
+*.log
+*.swp
+*.swa
+*.tmp
+*.tmp.*
+log
+logs
+*.mm.*
+*.bak
+*.bak.*
+*.off.*
+*.old.*
+.git
+.idea/
+.vscode/
